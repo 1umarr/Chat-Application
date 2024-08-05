@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+you can easily access the code with only using build folder it's contain aal the belongings which neend to run this chat application create by Umar Chishty owner of Cache.Co
+
+
+#  Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
